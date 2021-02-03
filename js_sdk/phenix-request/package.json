@@ -1,0 +1,11 @@
+{
+    "id": "phenix-request",
+    "name": "网络请求插件-- 基于uni request原生封装",
+    "version": "v1.0.1",
+    "description": "【私】fork 自 https://ext.dcloud.net.cn/plugin?id=946",
+    "keywords": [
+        "uni",
+        "request",
+        "net"
+    ]
+}
